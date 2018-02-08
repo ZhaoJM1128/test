@@ -1,0 +1,43 @@
+{
+    "WellName": "1-1",                                //井名
+    "UpdateTime": "2017-08-04 16:38:24",              //更新时间
+    "PumpingUnit": {                           //抽油机
+        "Manufacturer": "大庆",                       //抽油机厂家
+        "Model": "CYJ8-3-37HB",                      //抽油机型号
+        "Type": 2,                                   //抽油机类型
+        "CrankRotationDirection": "Clockwise",       //旋转方向
+        "OffsetAngleOfCrank": -8,                    //曲柄偏置角
+        "CrankGravityRadius": 0.77,                  //曲柄重心半径
+        "SingleCrankWeight": 12.71,                  //单块曲柄重量
+        "BalanceMaxMoveSpace": 3,                    //最大调整距离
+        "StructuralUnbalance": -0.5,                 //结构不平衡重
+        "Balance": {                          //平衡块
+            "MaxCNT": 4,                             //标配平衡块数
+            "EveryBalance": [     
+                {
+                    "Name": "UpperLeft",
+                    "Position": 0.64,                //平衡块位置1
+                    "Weight": 10.68                  //平衡块重量1
+                },
+                {
+                    "Name": "LowerLeft",
+                    "Position": 0.64,                //平衡块位置2
+                    "Weight": 10.68                  //平衡块重量2
+                },
+                {
+                    "Name": "UpperRight",
+                    "Position": 0.64,                //平衡块位置3
+                    "Weight": 10.68                  //平衡块重量3
+                },
+                {
+                    "Name": "LowerRight",
+                    "Position": 0.64,                //平衡块位置4
+                    "Weight": 10.68                  //平衡块重量4
+                }
+            ]
+        }
+    },
+    "SystemEfficiency": {                  //系统效率
+        "FourBarLinkageEfficiency": 0.95             //四连杆效率
+    }
+}

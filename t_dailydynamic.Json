@@ -1,0 +1,16 @@
+{
+    "WellName": "1-1",                             //井名
+    "UpdateTime": "2017-08-04 16:38:24",           //更新时间
+    "DailyWorkingTime": 24,                        //运行时间
+    "ProductionParameter": {                       //生产参数
+        "WaterCut": 73.1,                              //含水率
+        "ProductionGasOilRatio": 7,                    //生产气油比
+        "TubingPressure": 0.5,                         //油压
+        "CasingPressure": 0.6,                         //套压
+        "WellHeadFluidTemperature": 35,                //井口流温
+        "ProducingfluidLevel": 975                     //动液面
+    },
+    "ManualIntervention": {                    
+        "NetGrossRatio": 0.9                          //净毛比
+    }
+}

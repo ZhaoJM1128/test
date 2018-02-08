@@ -1,0 +1,186 @@
+{
+    "WellName": "J01-001",
+    "Status": 2, //0-未进行寻优 1-寻优中 2-寻优完成
+    "FrequencyRange": { //频率范围
+        "Min": 10,
+        "Max": 80
+    },
+    //"PressureDifferency":2.3,//生产压差
+    "IntermittentOutOfFluid": 0, //是否间歇性出液 0-否 1-是
+    "IntervalPumping": 0, //是否间抽 0-否 1-是
+    "CurrentBasicFrequency": 60, //当前主频
+    "CurrentFrequency": 60.5, //当前频率
+    "CurrentSPM": 3, //当前冲次
+    "ResultCurve": [ //各频率对应其他值，及寻优时间
+        {
+            "Frequency": 10, //频率
+            "SPM": 0.5, //冲次
+            "LiquidProduction": 15, //产液量
+            "WaterProduction": 12.75, //产水量
+            "OilProduction": 2.25, //产油量
+            "OutPutWorth": 4526.7, //产出价值
+            "Electricity": 36.5, //电费
+            "OilDispose": 18, //原油处理成本
+            "OperationtMaintain": 6.5, //作业维护成本
+            "TotalCost": 61, //总成本
+            "Profit": 4465.7, //利润
+            "PumpInspectionCycle": 400, //检泵周期 单位：天    
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 6:00:00", //该频率寻优开始时间
+                "EndTime": "2017:11:17 8:00:00" //该频率寻优结束时间
+            }
+        }, {
+            "Frequency": 20,
+            "SPM": 1,
+            "LiquidProduction": 40,
+            "WaterProduction": 34,
+            "OilProduction": 6,
+            "OutPutWorth": 12071.2,
+            "Electricity": 58.4,
+            "OilDispose": 48,
+            "OperationtMaintain": 7,
+            "TotalCost": 113.4,
+            "Profit": 11957.8,
+            "PumpInspectionCycle": 400,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 8:00:00",
+                "EndTime": "2017:11:17 10:00:00"
+            }
+        }, {
+            "Frequency": 30,
+            "SPM": 1.5,
+            "LiquidProduction": 68,
+            "WaterProduction": 57.8,
+            "OilProduction": 10.2,
+            "OutPutWorth": 20521,
+            "Electricity": 87.6,
+            "OilDispose": 81.6,
+            "OperationtMaintain": 7.5,
+            "TotalCost": 176.7,
+            "Profit": 20344.3,
+            "PumpInspectionCycle": 400,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 8:00:00",
+                "EndTime": "2017:11:17 10:00:00"
+            }
+        }, {
+            "Frequency": 40,
+            "SPM": 2,
+            "LiquidProduction": 85,
+            "WaterProduction": 72.25,
+            "OilProduction": 12.75,
+            "OutPutWorth": 25651.2,
+            "Electricity": 124.1,
+            "OilDispose": 102,
+            "OperationtMaintain": 8.5,
+            "TotalCost": 234.6,
+            "Profit": 25416.6,
+            "PumpInspectionCycle": 380,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 10:00:00",
+                "EndTime": "2017:11:17 12:00:00"
+            }
+        }, {
+            "Frequency": 50,
+            "SPM": 2.5,
+            "LiquidProduction": 95,
+            "WaterProduction": 80.75,
+            "OilProduction": 14.25,
+            "OutPutWorth": 28669,
+            "Electricity": 153.3,
+            "OilDispose": 114,
+            "OperationtMaintain": 10,
+            "TotalCost": 277.3,
+            "Profit": 28391.7,
+            "PumpInspectionCycle": 350,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 12:00:00",
+                "EndTime": "2017:11:17 14:00:00"
+            }
+        }, {
+            "Frequency": 60,
+            "SPM": 3,
+            "LiquidProduction": 100,
+            "WaterProduction": 85,
+            "OilProduction": 15,
+            "OutPutWorth": 30177.9,
+            "Electricity": 175.2,
+            "OilDispose": 120,
+            "OperationtMaintain": 12,
+            "TotalCost": 307.2,
+            "Profit": 29870.7,
+            "PumpInspectionCycle": 300,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 14:00:00",
+                "EndTime": "2017:11:17 16:00:00"
+            }
+        }, {
+            "Frequency": 70,
+            "SPM": 3.5,
+            "LiquidProduction": 106,
+            "WaterProduction": 90.1,
+            "OilProduction": 15.9,
+            "OutPutWorth": 31988.6,
+            "Electricity": 189.8,
+            "OilDispose": 127.2,
+            "OperationtMaintain": 14.5,
+            "TotalCost": 331.5,
+            "Profit": 31657.1,
+            "PumpInspectionCycle": 180,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 16:00:00",
+                "EndTime": "2017:11:17 18:00:00"
+            }
+        }, {
+            "Frequency": 80,
+            "SPM": 4,
+            "LiquidProduction": 107,
+            "WaterProduction": 90.95,
+            "OilProduction": 16.05,
+            "OutPutWorth": 32290.4,
+            "Electricity": 197.1,
+            "OilDispose": 128.4,
+            "OperationtMaintain": 17,
+            "TotalCost": 342.6,
+            "Profit": 31947.8,
+            "PumpInspectionCycle": 90,
+            "OptimizeTimeRange": {
+                "StartTime": "2017:11:17 18:00:00",
+                "EndTime": "2017:11:17 20:00:00"
+            }
+        }
+    ],
+    "RunningRecord": [ //运行记录
+        {
+            "StartTime": "2017-12-01 09:00:00", //启抽时间
+            "EndTime": "2017-12-01 18:25:47", //停抽时间
+            "RunningTime": "09:25", //运行时间
+            "StopCycle": 16, //停抽周期 单位：小时
+            "BasicFrequency": 60 //运行时主频
+        }, {
+            "StartTime": "2017-12-02 10:25:47",
+            "EndTime": "2017-12-02 18:26:05",
+            "RunningTime": "08:01",
+            "StopCycle": 16,
+            "BasicFrequency": 60
+        }
+    ],
+    "ManualIntervention": {//人工干预
+        "Status": 0, //干预状态 0-不干预 1-干预 只有为1时，干预的主频和间抽设置才生效
+        "BasicFrequency": 60, //主频
+        "IntervalPumping": 0, //是否间抽 0-否 1-是
+        "IntervalPumpingCycle": [//间抽周期
+            {
+                "StartDate": "2017-12-01", //开始日期
+                "Cycle": 2, //周期
+                "StartTime": "8:00",//开抽时间
+                "EndTime": "18:00"//停抽时间
+            }, {
+                "StartDate": "2017-12-02", //开始日期
+                "Cycle": 2, //周期
+                "StartTime": "8:00",
+                "EndTime": "12:00"
+            }
+        ]
+    }
+}

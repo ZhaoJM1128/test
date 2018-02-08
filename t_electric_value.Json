@@ -1,0 +1,32 @@
+{
+    "_id" : ObjectId("5924d05e5a3d8b85a3381d56"),
+    "wellname" : "J01-001",
+    "liftingtype" : "PumpingUnit",
+    "acquisitiontime" : "2017-05-22 18:38:24",
+    "scheduledrunningrange" : [ 
+        {
+            "starttime" : "00:00",
+            "endtime" : "00:00"
+        }
+    ],
+    "runningstatus" : true,
+    "alarmtype" : 1202,
+    "currenta" : 10.2,
+    "currentb" : 10.2,
+    "currentc" : 10.2,
+    "voltagea" : 220.4,
+    "voltageb" : 220.5,
+    "voltagec" : 220.6,
+    "SetFrequency":60,
+    "RunningFrequency":60.1,
+    "totalpowerconsumption" : 45.0,
+    "dailyrealtimerunningrange" : [ 
+        {
+            "starttime" : "00:00",
+            "endtime" : "18:38"
+        }
+    ],
+    "dailyrealtimerunningtime" : 18.64,
+    "dailyrealtimerunningtimeefficiency" : 0.777,
+    "dailyrealtimepowerconsumption":156
+}

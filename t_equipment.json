@@ -1,0 +1,29 @@
+{
+    "List":[
+        {
+            "WellName":"J01-001",//设备名称
+            "FirestMaintainCycle":30,//一保周期
+            "SecondMaintainCycle":180,//二保周期
+            "FirstMaintainRemainDays":1.3,//待一保天数
+            "SecondMaintainRemainDays":30.7,//待二保天数
+            "LastFirstMaintainTimes":"2017-11-27 10:00",//上次一保时间
+            "LastSecondMaintainTimes":"2017-08-15 10:00"//上次二保时间
+        },{
+            "WellName":"J01-002",
+            "FirestMaintainCycle":30,
+            "SecondMaintainCycle":180,
+            "FirstMaintainRemainDays":1.3,
+            "SecondMaintainRemainDays":30.7,
+            "LastFirstMaintainTimes":"2017-11-27 10:00",
+            "LastSecondMaintainTimes":"2017-08-15 10:00"
+        },{
+            "WellName":"J01-003",
+            "FirestMaintainCycle":30,
+            "SecondMaintainCycle":180,
+            "FirstMaintainRemainDays":1.3,
+            "SecondMaintainRemainDays":30.7,
+            "LastFirstMaintainTimes":"2017-11-27 10:00",
+            "LastSecondMaintainTimes":"2017-08-15 10:00"
+        }
+    ]
+}

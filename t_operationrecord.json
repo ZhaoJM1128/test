@@ -1,0 +1,22 @@
+{
+    "OperaList":[
+        {
+            "WellName":"J01-001",
+            "Time":"2017-12-29 08:49:58",
+            "OperaContent":"作业数据修改",
+            "OperaItem":"含水率",
+            "OldValue":99.15,
+            "NewValue":99.13,
+            "Watch":"李明"
+        },
+        {
+            "WellName":"J01-001",
+            "Time":"2017-12-29 08:49:58",
+            "OperaContent":"作业数据修改",
+            "OperaItem":"动液面",
+            "OldValue":730.7,
+            "NewValue":736.5,
+            "Watch":"李明"
+        }
+    ]
+}

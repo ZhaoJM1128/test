@@ -1,0 +1,69 @@
+{
+    "WellName": "1-1",                            //井名
+	"UpdateTime":"2017-08-04 16:38:24",	          //更新时间
+    "RodString": {                            //抽油杆   
+        "EveryRod": [                      
+            {                                  //一级抽油杆
+                "Type": 1,                        //一级杆类型
+                "Grade": "D",                     //一级杆级别
+                "Length": 329.86,                 //一级杆长度
+                "OutsideDiameter": 0.022,         //一级杆径
+                "InsideDiameter": 0,
+                "Density": 7.85
+            },
+            {                                  //二级抽油杆
+                "Type": 1,                        //二级杆类型
+                "Grade": "D",                     //二级杆级别
+                "Length": 668.52,                 //二级杆长度
+                "OutsideDiameter": 0.019,         //二级杆径
+                "InsideDiameter": 0,
+                "Density": 7.85
+            },
+			{                                  //三级抽油杆
+                "Type": 1,                        //三级杆类型
+                "Grade": "D",                     //三级杆级别
+                "Length": 668.52,                 //三级杆长度
+                "OutsideDiameter": 0.019,         //三级杆径
+                "InsideDiameter": 0,
+                "Density": 7.85
+            }
+        ]
+    },
+    "TubingString": {                           //油管
+        "EveryTubing": [
+            {
+                "Grade": "K55",
+                "OutsideDiameter": 0.073,
+                "InsideDiameter": 0.062,          //油管内径
+                "Length": 3000,
+                "Density": 7.85,
+                "WeightPerMeter": 0
+            }
+        ]
+    },
+    "Pump": {                                   //抽油泵
+        "PumpType": "T",                           //抽油泵类型         
+        "BarrelType": "L",                         //泵筒类型
+        "PumpGrade": 1,                            //抽油泵级别
+        "BarrelLength": 8,                         
+        "PlungerLength": 1.3,                      //柱塞长
+        "PumpBoreDiameter": 0.044,
+        "Clearance": 0.00002,
+        "AntiImpactStroke": 0.1
+    },
+    "CasingString": {                            //生产套管
+        "EveryCasing": [
+            {
+                "Grade": "K55",
+                "OutsideDiameter": 0.139,
+                "InsideDiameter": 0.127,            //生产套管内径
+                "Length": 3000,
+                "Density": 7.85,
+                "WeightPerMeter": 0
+            }
+        ]
+    },
+	"ProductionParameter": {                     //生产参数
+        "PumpSettingDepth": 1012.36                  //泵挂
+    }	
+}

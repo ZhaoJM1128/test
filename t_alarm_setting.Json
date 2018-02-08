@@ -1,0 +1,614 @@
+{
+    "FSDiagramAlarm": [
+        {
+            "DiagnosisResultCode": 1201,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+        {
+            "DiagnosisResultCode": 1202,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 3,
+            "Alarmstatus": 0
+        },
+        {
+            "DiagnosisResultCode": 1203,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+        {
+            "DiagnosisResultCode": 1204,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+        {
+            "DiagnosisResultCode": 1205,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1206,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1207,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1208,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1209,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+        {
+            "DiagnosisResultCode": 1210,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1211,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1212,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1213,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1214,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1215,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1216,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1217,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1218,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1219,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+        {
+            "DiagnosisResultCode": 1220,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1221,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 100,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1222,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1223,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1224,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+		{
+            "DiagnosisResultCode": 1225,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1226,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 0
+        },
+		{
+            "DiagnosisResultCode": 1227,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1228,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1229,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1230,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 200,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1231,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1232,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1237,
+			"OptimizationSuggestion":"",
+            "UpperLimit": 80,
+            "flowerLimit": 0,
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1238,
+			"OptimizationSuggestion":"",
+            "UpperLimit": 90,
+            "flowerLimit": 80,
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1239,
+			"OptimizationSuggestion":"",
+            "UpperLimit": 105,
+            "flowerLimit": 90,
+            "AlarmLevel": 3,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1240,
+			"OptimizationSuggestion":"",
+            "UpperLimit": 110,
+            "flowerLimit": 105,
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1241,
+			"OptimizationSuggestion":"",
+            "UpperLimit": 999999,
+            "flowerLimit": 110,
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        }
+        ],
+    "BalanceAlarm":{
+        "SeverityOverBalance":{
+            "DegreeOfBalance":120,
+            "AlarmLevel":1
+        },
+        "OverBalance":{
+            "DegreeOfBalance":105,
+            "AlarmLevel":2
+        },
+        "UnderBalance":{
+            "DegreeOfBalance":85,
+            "AlarmLevel":2
+        },
+        "SeverityUnderBalance":{
+            "DegreeOfBalance":75,
+            "AlarmLevel":1
+        }
+    },
+    "ElectricAlarm":[
+		{
+            "DiagnosisResultCode": 1361,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1362,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1363,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 3,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1364,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1365,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1366,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 3,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1367,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 3,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1368,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1369,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1370,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1371,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1372,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1373,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1374,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1375,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 2,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1381,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        },
+		{
+            "DiagnosisResultCode": 1382,
+			"OptimizationSuggestion":"",
+            "AlarmLevel": 1,
+            "Alarmstatus": 1
+        }
+        ],
+    "FluctuateAlarm":{
+        "ProductionFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "FullnessCoefficientFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "FMaxFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "FminFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "FDeltaFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },        
+        "ProducingfluidLevelFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "SubmergenceFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "PowerFluctuate":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        }
+    },
+    "DataAlarm":{
+        "SubmergenceAlarm":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "CasingPressureAlarm":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "TubingPressure":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "WellHeadFluidTemperatureAlarm":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        },
+        "WaterCutAlarm":{
+            "highhighAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "highAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            },
+            "lowlowAlarm":{
+                "Value":3,
+                "AlarmLevel":1
+            },
+            "lowAlarm":{
+                "Value":3,
+                "AlarmLevel":2
+            }
+        }
+    },        
+    "Color": [
+        {
+            "AlarmLevel": 2,
+            "AlarmColor": "#FF0010"
+        },
+        {
+            "AlarmLevel": 1,
+            "AlarmColor": "#ffcc33"
+        },
+        {
+            "AlarmLevel": 0,
+            "AlarmColor": "#48d27a"
+        },
+        {
+            "AlarmLevel": 3,
+            "AlarmColor": "#333333"
+        }
+    ]
+}

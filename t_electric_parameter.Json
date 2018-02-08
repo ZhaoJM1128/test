@@ -1,0 +1,23 @@
+{
+    "_id" : ObjectId("5924cf8e5a3d8b85a3381d1d"),
+    "liftingtype" : "pumpingunit",
+    "correlationlevelrange" : [ 
+        0.3, 
+        0.5, 
+        0.8
+    ],
+    "differencevaluelevelrange" : [ 
+        0.5, 
+        2.0, 
+        5.0
+    ],
+    "delaytime" : 1800,
+    "timer" : 600,
+    "counter" : 10,
+    "currentbalancepercent" : 0.2,
+    "voltagebalancepercent" : 0.2,
+    "currentmaxoffsetpercent" : 0.1,
+    "currentminoffsetpercent" : 0.1,
+    "voltagemaxoffsetpercent" : 0.1,
+    "voltageminoffsetpercent" : 0.1
+}

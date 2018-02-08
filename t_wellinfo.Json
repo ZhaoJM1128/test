@@ -1,0 +1,39 @@
+{
+    "WellName": "J01-001", //井名
+    "WellGroup": "JZ001", //井组
+    "Organization": "采油一队", //单位名称
+    "LiftingType": "PumpingUnit", //举升类型
+    "NameplateStroke":3,//铭牌冲程
+    "ForearmLength":4,//前臂长
+    "FluidPVT": { //PVT物性
+        "CrudeOilDensity": 0.86, //原油密度
+        "WaterDensity": 1, //水密度
+        "NaturalGasRelativeDensity": 0.7, //天然气相对密度
+        "SaturationPressure": 9.6 //饱和压力
+    },
+    "Reservoir": { //油藏
+        "Depth": 1350, //油气藏中部深度
+        "Temperature": 66 //油气藏中部温度
+    },
+    "WellboreTrajectory": { //井身轨迹
+        "MeasuringDepth": [ //测量深度
+            100,
+            200
+        ],
+        "VerticalDepth": [ //垂直深度
+            100,
+            200
+        ],
+        "DeviationAngle": [ //井斜角
+            0,
+            0
+        ],
+        "AzimuthAngle": [ //方位角
+            0,
+            0
+        ]
+    },
+    "CommunicationParam": {
+        "Driver": "JC001OPC.topic.01"
+    }
+}

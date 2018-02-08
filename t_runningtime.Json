@@ -1,0 +1,35 @@
+{
+    "WellName": "1-1", //井名
+    "Month": "2017-08", //月份
+    "Schedule": [
+        {
+            "Day": "01",
+            "RunningRange": [ //计划运行周期
+                {
+                    "StartTime": "00:00", //开始时间1
+                    "EndTime": "3:59" //结束时间1
+                },
+                {
+                    "StartUpTime": "06:00", //开始时间2
+                    "StopTime": "23:59", //结束时间2
+                }
+            ],
+            "Remark": "备注" //备注
+        },
+        {
+            "Day": "02",
+            "RunningRange": [ //计划运行周期
+                {
+                    "StartTime": "00:00", //开始时间1
+                    "EndTime": "3:59" //结束时间1
+                },
+                {
+                    "StartUpTime": "06:00", //开始时间2
+                    "StopTime": "23:59", //结束时间2
+                }
+            ],
+            "Remark": "备注" //备注
+        }
+    ]
+
+}

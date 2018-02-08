@@ -1,0 +1,21 @@
+{
+    "WellName": "J01-001",
+    "FsdiagramFrequency": {//功图变频干预
+        "Status": 1, //干预状态 0-不干预 1-干预 只有为1时，干预的主频和间抽设置才生效
+        "BasicFrequency": 60, //主频
+        "IntervalPumping": 1, //是否间抽 0-否 1-是
+        "IntervalPumpingCycle": [
+            {
+                "StartDate": "2017-12-01", //开始日期
+                "Cycle": 2, //周期
+                "StartTime": "8:00",//开抽时间
+                "EndTime": "18:00"//停抽时间
+            }, {
+                "StartDate": "2017-12-02", //开始日期
+                "Cycle": 2, //周期
+                "StartTime": "8:00",
+                "EndTime": "12:00"
+            }
+        ]
+    }
+}

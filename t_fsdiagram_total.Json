@@ -1,0 +1,76 @@
+{
+    "CalculationStatus": {
+        "ResultStatus": 1,
+        "ResultCode": 0
+    },
+    "Verification": {
+        "ErrorCounter": 0,
+        "ErrorString": "",
+        "WarningCounter": 0,
+        "WarningString": "",
+        "SDKPlusCounter": 0,
+        "SDKPlusString": ""
+    },
+    "WellRing": {
+        "Name": "",
+        "Flag": {
+            "SplitStatus": true,
+            "Difficult": false,
+            "DifficultCNT": 0
+        },
+        "Measure": {
+            "LiquidVolumetricProduction": 0,
+            "OilVolumetricProduction": 0,
+            "WaterVolumetricProduction": 0,
+            "LiquidWeightProduction": 0,
+            "OilWeightProduction": 0,
+            "WaterWeightProduction": 0
+        },
+        "Calculation": {
+            "LiquidVolumetricProduction": 0,
+            "OilVolumetricProduction": 0,
+            "WaterVolumetricProduction": 0,
+            "VolumetricWaterCut": 0,
+            "LiquidWeightProduction": 0,
+            "OilWeightProduction": 0,
+            "WaterWeightProduction": 0,
+            "WeightWaterCut": 0
+        },
+        "EveryWell": [
+            {
+                "Name": "J01-001",
+                "RunningTime": 8,
+                "RunningTimeEfficiency": 0.333,
+                "ResultCode": 1202,
+                "FullnessCoefficient": 0,
+                "ExtendedDays": 730,
+                "Flag": {
+                    "SplitStatus": false,
+                    "Difficult": false
+                },
+                "Split": {
+                    "ProductionSplitCoefficient": 0,
+                    "LiquidVolumetricProduction": 0,
+                    "OilVolumetricProduction": 0,
+                    "WaterVolumetricProduction": 0,
+                    "LiquidWeightProduction": 0,
+                    "OilWeightProduction": 0,
+                    "WaterWeightProduction": 0
+                },
+                "Calculation": {
+                    "LiquidVolumetricProduction": 4.1,
+                    "OilVolumetricProduction": 1.77,
+                    "WaterVolumetricProduction": 2.33,
+                    "LiquidWeightProduction": 3.92,
+                    "OilWeightProduction": 1.59,
+                    "WaterWeightProduction": 2.33,
+                    "SurfaceSystemEfficiency": 0.45,
+                    "WellDownSystemEfficiency": 0.7,
+                    "SystemEfficiency": 0.32,
+                    "PowerConsumptionPerTHM": 0
+                }
+            }
+        ]
+    }
+}
+

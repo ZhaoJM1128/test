@@ -1,0 +1,48 @@
+{
+    "AlarmList":[
+        {
+            "WellName":"J01-001",
+            "Time":"2017-12-29 08:49:58",
+            "AlarmType":"FSDiagramAlarm",//FSDiagramAlarm-工况报警 BalanceAlarm-平衡报警 ElectricAlarm-电参工况报警 FluctuateAlarm-波动报警 DataAlarm-数据上下限报警
+            "AlarmContent":"工况报警",
+            "AlarmLevel":1,
+            "AlarmColor": "#ef0d0d",
+            "AlarmValue":"游动凡尔漏失",
+            "AlarmHandle":"已确认",
+            "Watch":"李明"
+        },
+        {
+            "WellName":"J01-002",
+            "Time":"2017-12-29 08:46:24",
+            "AlarmType":"FSDiagramAlarm",
+            "AlarmContent":"工况报警",
+            "AlarmLevel":1,
+            "AlarmColor": "#ef0d0d",
+            "AlarmValue":"游动凡尔漏失",
+            "AlarmHandle":"已确认",
+            "Watch":"李明"
+        },
+        {
+            "WellName":"J01-003",
+            "Time":"2017-12-29 08:46:24",
+            "AlarmType":"BalanceAlarm",
+            "AlarmContent":"严重过平衡",
+            "AlarmLevel":1,
+            "AlarmColor": "#ef0d0d",
+            "AlarmValue":"135.2",
+            "AlarmHandle":"已确认",
+            "Watch":"李明"
+        },
+        {
+            "WellName":"J01-003",
+            "Time":"2017-12-29 08:46:24",
+            "AlarmType":"DataAlarm",
+            "AlarmContent":"A相电流高高报",
+            "AlarmLevel":1,
+            "AlarmColor": "#ef0d0d",
+            "AlarmValue":"10.56",
+            "AlarmHandle":"已确认",
+            "Watch":"李明"
+        }
+    ]
+}

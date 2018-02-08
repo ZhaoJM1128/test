@@ -1,0 +1,38 @@
+{
+    "_id" : ObjectId("5924d7c65a3d8b85a3381eda"),
+    "wellname" : "J01-001",
+    "date" : "2017-05-21",
+    "dailyrunningrange" : [ 
+        {
+            "starttime" : "16:38",
+            "endtime" : "00:00"
+        }
+    ],
+    "dailyrunningtime" : 7.36,
+    "dailyrunningtimeefficiency" : 0.307,
+    "dailypowerconsumption":200,
+    "currenta" : {
+        "max" : 10.2,
+        "min" : 10.2
+    },
+    "currentb" : {
+        "max" : 10.2,
+        "min" : 10.2
+    },
+    "currentc" : {
+        "max" : 10.2,
+        "min" : 10.2
+    },
+    "voltagea" : {
+        "max" : 220.4,
+        "min" : 220.4
+    },
+    "voltageb" : {
+        "max" : 220.5,
+        "min" : 220.5
+    },
+    "voltagec" : {
+        "max" : 220.6,
+        "min" : 220.6
+    }
+}

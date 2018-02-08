@@ -1,0 +1,10 @@
+{
+    "WellName": "1-1",                             //井名
+    "AcquisitionTime": "2017-08-04 16:38:24",          //采集时间
+    "ProductionParameter": {                       //生产参数
+        "TubingPressure": 0.5,                         //油压
+        "CasingPressure": 0.6,                         //套压
+        "WellHeadFluidTemperature": 35,                //井口流温
+        "ProducingfluidLevel": 975                     //动液面
+    }
+}

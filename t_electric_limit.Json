@@ -1,0 +1,46 @@
+{
+    "_id" : ObjectId("5924d7c65a3d8b85a3381ed7"),
+    "wellname" : "J01-001",
+    "currenta" : {
+        "max" : 12.24,
+        "min" : 8.16,
+        "zero" : 0.1,
+        "maxpercent" : 0.2,
+        "minpercent" : 0.2
+    },
+    "currentb" : {
+        "max" : 12.24,
+        "min" : 8.16,
+        "zero" : 0.1,
+        "maxpercent" : 0.2,
+        "minpercent" : 0.2
+    },
+    "currentc" : {
+        "max" : 12.24,
+        "min" : 8.16,
+        "zero" : 0.1,
+        "maxpercent" : 0.2,
+        "minpercent" : 0.2
+    },
+    "voltagea" : {
+        "max" : 242.44,
+        "min" : 198.36,
+        "zero" : 0.1,
+        "maxpercent" : 0.1,
+        "minpercent" : 0.1
+    },
+    "voltageb" : {
+        "max" : 242.55,
+        "min" : 198.45,
+        "zero" : 0.1,
+        "maxpercent" : 0.1,
+        "minpercent" : 0.1
+    },
+    "voltagec" : {
+        "max" : 242.66,
+        "min" : 198.54,
+        "zero" : 0.1,
+        "maxpercent" : 0.1,
+        "minpercent" : 0.1
+    }
+}

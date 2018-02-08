@@ -1,0 +1,48 @@
+{
+    "WellName": "J01-001", //（1）井名
+    "CalculateDate":"2017-12-01",
+    "CalculationStatus": { //（2）计算状态
+        "ResultStatus": 1,
+        "ResultCode": 0
+    },
+    "Verification": { //（3）数据校验
+        "ErrorCounter": 0,
+        "ErrorString": "",
+        "WarningCounter": 0,
+        "WarningString": ""
+    },
+    "ExtendedDays": 0,
+    "DeltaRadius": 0.25,
+    "DeltaBlock": 0,
+    "CurrentDegreeOfBalance": 82.5,
+    "CurrentBalance": { //（4）目前平衡块参数
+        "ValidCNT": 0,
+        "EveryBalance": [
+            {
+                "Name": "",
+                "Position": 1,
+                "Weight": 12.5
+            },
+            {
+                "Name": "",
+                "Position": 1,
+                "Weight": 12.5
+            }
+        ]
+    },
+    "EvaluationBalance": { //（5）评价后平衡块参数
+        "ValidCNT": 0,
+        "EveryBalance": [
+            {
+                "Name": "",
+                "Position": 1.25,
+                "Weight": 12.5
+            },
+            {
+                "Name": "",
+                "Position": 1.25,
+                "Weight": 12.5
+            }
+        ]
+    }
+}

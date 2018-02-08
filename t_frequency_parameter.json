@@ -1,0 +1,5 @@
+{
+    "OilPrice":50, //油价 美元/桶
+    "ElectricityPrice":0.73,  //电价 元/kW·h
+    "OilDisposePricePerTon":8 //吨液处理成本
+}
